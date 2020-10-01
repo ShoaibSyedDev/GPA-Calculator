@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include<cstring>
 using namespace std;
@@ -91,7 +90,7 @@ float gpa::TotalGpa()
 	return total;
 }
 int main()
-{
+{                                       // main function 
        gpa cg
 	cout << "Please enter the number of subjects of the current semester in which you are studying: ";
 	cin >> g.number_of_subjects;
